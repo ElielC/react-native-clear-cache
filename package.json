@@ -15,6 +15,10 @@
   "keywords": [
     "react-native"
   ],
+  "author": {
+    "name": "Eliel Silveira",
+    "email": "ecsilveira@topazevolution.com"
+  },
   "license": "MIT",
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
